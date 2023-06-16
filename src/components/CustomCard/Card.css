@@ -1,0 +1,11 @@
+.card {
+  transition: transform 0.3s ease;
+}
+.card:hover {
+  transform: scale(1.1);
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.3) !important;
+  cursor: pointer;
+}
+.custom-test:hover {
+  cursor: pointer;
+}

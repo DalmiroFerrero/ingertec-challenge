@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "imageUrl": "https://cdn.pixabay.com/photo/2015/09/09/19/56/office-932926_1280.jpg",
+        "title": "UI/UX: Diseño inspirador en acción",
+        "description": "El arte del diseño en movimiento. Un hombre concentrado crea experiencias visuales impactantes."
+    },
+    {
+        "id": 2,
+        "imageUrl": "https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720_1280.jpg",
+        "title": "Desarrollo Full-Stack: Codificando el futuro",
+        "description": "Un desarrollador full-stack inmerso en el flujo creativo, construyendo soluciones tecnológicas con pasión y precisión."
+    },
+    {
+        "id": 3,
+        "imageUrl": "https://cdn.pixabay.com/photo/2017/09/05/10/20/business-2717066_1280.jpg",
+        "title": "Soluciones en Código: Encuentra la Llave del Éxito",
+        "description": "La sinfonía del código y la creatividad se unen para desbloquear soluciones innovadoras y resolver desafíos empresariales."
+    },
+    {
+        "id": 4,
+        "imageUrl": "https://cdn.pixabay.com/photo/2015/01/09/11/09/meeting-594091_1280.jpg",
+        "title": "Uniendo Fuerzas: Trabajo en Equipo",
+        "description": "Esta imagen representa la esencia del trabajo en equipo, donde personas comprometidas se unen para alcanzar objetivos comunes."
+    },
+    {
+        "id": 5,
+        "imageUrl": "https://cdn.pixabay.com/photo/2015/09/05/20/02/coding-924920_1280.jpg",
+        "title": "Coding Café: Un Sorbo de Inspiración",
+        "description": "La fusión perfecta entre café y código, donde las ideas fluyen mientras el sabor del café impulsa la creatividad en cada línea de código."
+    }
+]
