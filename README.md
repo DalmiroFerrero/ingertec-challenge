@@ -2,6 +2,8 @@
 
 Este proyecto es un challenge para la empresa Ingertec y consiste en desarrollar una página web utilizando React en TypeScript que cumpla con ciertos requisitos establecidos. A continuación se detallan las pruebas a realizar:
 
+[![Ver proyecto desplegado](https://lh3.googleusercontent.com/pw/AJFCJaVWvRyjPLI_tzvIFuX6IsMYT9b6wTRfCDOeF80HVILuikZ1FKIEZZdW2DZkNBbb-EOtu5NOpL_oPEkP_tmWwsuSbn3iJFwspszWLjc24fOoSx9CiLqPNWZn7NJ2UahhXaE8DjnIQeNnXW7p5uIzMCqw=w230-h46-s-no)](https://ingertec-challenge-ferrero-dalmiro.vercel.app/)
+
 ## Pruebas a Realizar
 
 - Desarrollar una página utilizando React en TypeScript que utilice Bootstrap 4 o 5.
